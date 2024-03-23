@@ -1,0 +1,7 @@
+# Folders
+.idea/
+
+# Files
+*.exe
+*.test
+*.out
